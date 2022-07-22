@@ -1,0 +1,3 @@
+,ngram_bleu_generated_description_score,ngram_bleu_baseline_description_score,semantic_similarity_generated_description_score,semantic_similarity_baseline_description_score
+mean,0.20269268573332166,0.18891764397772917,0.9193342014745949,0.9046513387951954
+std,0.10771449055627129,0.10937139147679167,0.02980726068908328,0.04784594717568072

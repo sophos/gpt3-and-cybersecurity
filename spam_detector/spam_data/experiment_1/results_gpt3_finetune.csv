@@ -1,0 +1,3 @@
+train_size,test_precision,test_recall,test_f1-score,test_support
+512,0.9926339285714285,0.9921875,0.9922847939851616,256
+1024,1.0,1.0,1.0,256
