@@ -383,7 +383,7 @@ if __name__ == "__main__":
 
     parser.add_argument(
         "--run_type",
-        help="denerate_desc or evaluate_approaches",
+        help="generate_desc or evaluate_approaches",
         default="generate_desc"
     )
     parser.add_argument(
