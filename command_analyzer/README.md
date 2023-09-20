@@ -16,7 +16,8 @@ python command_analyzer.py --run_type=evaluate_approaches --path_output_json="cm
 ```
 
 <br>
-Demo examples are available in the [notebook](https://github.com/sophos-internal/gpt3-and-cybersecurity/blob/main/command_analyzer/command_demo.ipynb). 
+Demo examples are available in the [notebook](https://github.com/sophos/gpt3-and-cybersecurity/blob/main/command_analyzer/command_demo.ipynb).
 
 # Dataset
+
 cmd_data folder provides a dataset which includes command lines, tags and reference descriptions.
