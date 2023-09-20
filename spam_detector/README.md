@@ -17,7 +17,8 @@ python spam_detector.py --run_type=evaluate_approaches --path_data_folder=spam_d
 ```
 
 <br>
-Demo examples are available in the [notebook](https://github.com/sophos-internal/gpt3-and-cybersecurity/blob/main/spam_detector/spam_demo.ipynb).
+Demo examples are available in the [notebook](https://github.com/sophos/gpt3-and-cybersecurity/blob/main/spam_detector/spam_demo.ipynb).
 
 # Spam dataset
+
 spam_data folder provides training and test datasets which were randomly sampled from a spam datast, The [spam data](./spam_data/SMSSpamCollection) is from [UCI SMS Spam collection data set](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection).
